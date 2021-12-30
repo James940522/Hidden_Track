@@ -1,70 +1,52 @@
-# Getting Started with Create React App
+# 프로젝트 소개
+## Logo
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Screenshot from 2021-10-11 21-47-48](https://user-images.githubusercontent.com/81761175/136792467-5596d69d-0728-46b5-bc2e-6f189f935c2f.png)
 
-## Available Scripts
+## About
 
-In the project directory, you can run:
+판에 박힌 음악차트, 어디서든 똑같은 음원 순위.. 지겨우셨나요?
 
-### `npm start`
+HIDDEN TRACK에서는 신인 가수, 대중적으로 알려지지 않은 가수들이 직접 등록한 색다른 음악을 감상할 수 있습니다.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+나만의 유니크한 PlayList를 구성하고, 화려한 visualizer까지 즐겨보세요!
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## 💻 기술 스택
 
-### `npm test`
+![f3840b415645afc9](https://user-images.githubusercontent.com/81761175/136849810-48ec546e-a85b-437c-aeae-0922064c60d3.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🛠Architecture
 
-### `npm run build`
+### 🔨Functional Flow  
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![기능플로우1](https://user-images.githubusercontent.com/81761175/137650925-0cadff8b-5a29-4c9e-9e95-71fb9c10258e.jpg)
+![기능플로우2](https://user-images.githubusercontent.com/81761175/137650929-49337f74-a463-4401-b859-b66618932ff0.jpg)
+![기능플로우3](https://user-images.githubusercontent.com/81761175/137650934-f64bb6b6-454d-490b-96ae-2c21c2b8d42f.jpg)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 🔧System
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![system](https://user-images.githubusercontent.com/81761175/137650937-00a78ad3-a859-478f-b1fc-e2f87f5402ef.jpg)
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+# 😁 팀을 소개합니다.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+팀명: Cordon Ramsay
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- 저희의 팀명은 Cording + Gordon Ramsay의 합성어로 세계적인 셰프인 고든램지처럼 코딩을 맛있게 하는 팀이 되자는 취지로 팀명을 지었습니다.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+| Name | Position |
+| ----------- | ----------- |
+| <a href="https://github.com/Realroot">이윤근</a> | 🏴 Backend |
+| <a href="https://github.com/Achates09">위석량</a> | 🏳 Frontend |
+| <a href="https://github.com/James940522">정재민</a> | 🏳 Frontend |
+| <a href="https://github.com/jjub0217">강주현</a> | 🏳 Frontend |
 
-## Learn More
+# For project details
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<a font-size=500px href="https://www.hiddentrack.link">Go to HIDDEN TRACK</a>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<a font-size=500px href="https://codestates.notion.site/5-CordonRamsay-HiddenTrack-dce0b399ee5049ff891b8a970c63a8be">Go to Team Notion Page</a>
 
-### Code Splitting
+<a font-size=500px href="https://github.com/codestates/hidden_track/wiki">Checkout WIKI</a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
